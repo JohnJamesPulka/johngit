@@ -1,0 +1,2 @@
+# johngit
+today git method
